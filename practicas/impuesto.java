@@ -2,8 +2,8 @@ public class impuesto {
  
     public static void main(String[] args) {
  
-        final double IVA = 0.18;
-        int producto=300;
+        final double IVA = 0.16;
+        int producto=100;
  
         double resultado=producto*IVA;
  
