@@ -1,6 +1,6 @@
 public class globales{
 
-	static Byte a ;
+	static Byte a = 1;
 	static Short b = 0;
 	static int c = 1250;
 	static long d = 0;
